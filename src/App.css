@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-color: rgb(0, 0,0,0.5);
+  padding-top: 10px;
+  border-radius: 10px;
 }
 
 .App-logo {
@@ -35,4 +38,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+div.ccc.my-4{
+  padding : 30px;
+  background: black;
+  opacity: 30%;
+  border-radius: 5px;
+
+
+}
+.font{
+  color: white;
+  font-weight: 100;
+  opacity: 100%;
+}
+.diez{
+  color: white;
+  font-size: 20px;
+  opacity: 100%;
+}
+.my-4{
+  background-color:linear-gradient(#000000,#000000,0.5)!important;
 }
